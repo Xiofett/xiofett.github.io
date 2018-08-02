@@ -7,7 +7,7 @@ title: On "Security" meetings...
 
 Most of the time I kept hopping around and farting in the chairs in the meeting room.
 
-https://vgy.me/chYFdp.jpg
+[Webcomic Link](https://vgy.me/chYFdp.jpg)
 
 ^^^my god
 
