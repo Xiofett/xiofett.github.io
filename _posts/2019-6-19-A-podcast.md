@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Squirrels...
+title: A podcast...
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/butt-podcast.png)
